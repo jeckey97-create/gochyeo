@@ -1,0 +1,11 @@
+{
+  "name": "gochyeo",
+  "owner": { "name": "mode.plus.up" },
+  "plugins": [
+    {
+      "name": "gochyeo",
+      "source": "./",
+      "description": "AI 직원이 자주 하는 핑계 6개를 막는 스킬 묶음"
+    }
+  ]
+}
